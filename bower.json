@@ -1,0 +1,17 @@
+{
+    "name": "cardo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "David Perry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cardo-bower.git"
+    },
+    "description": "Cardo font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
